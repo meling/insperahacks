@@ -16,6 +16,8 @@ Reason for hack: too many mouse clicks and too much cursor movement; becomes esp
 
 5. Check that you can give a score by clicking one of the number buttons.
 
+Note that you need to install the script again, if you reload the page, e.g. every time you navigate to a different part of Inspera, or log back in. Just follow the steps above again.
+
 ## Navigation and Scoring
 
 **Scoring:** press any number button :zero:, :one:, :two:, ... :nine: to give that score. There is currently no way to give scores higher than 9, but it should be possible to map other keys to higher scores if necessary.
